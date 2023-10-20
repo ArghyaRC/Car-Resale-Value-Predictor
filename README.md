@@ -1,4 +1,4 @@
-# Car-resale-value-predictor
+# Car_resale_value_predictor
 # Objective
 The main objective of this project is to predict resale value of a car by training a machine learning model on historical data.
 # About the dataset
